@@ -1,0 +1,25 @@
+body {
+    margin-top:40px;
+    background-color:#0c0302; 
+    
+}
+
+.container{
+    padding-top: 30px;
+    background-image: url(https://img.freepik.com/free-photo/abstract-blue-low-poly-background-texture-creative-polygonal-backdrop-illustration_136875-1560.jpg?size=626&ext=jpg);
+    padding-bottom: 50px;
+    text-align: center;
+    width: 1150px;
+    background-size: cover;
+    
+    margin: 0 auto;
+}
+
+.footer-wrapper h3 {
+    margin-left:40px;
+    padding-top:30px;
+    text-align:left;
+    color:aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
